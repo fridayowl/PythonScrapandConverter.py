@@ -24,7 +24,7 @@ Algorithm ---
 - Identify the index.html file 
 -  create a list of all the links(path) that involved in the index.html 
 -  Travel through all the path and open each html file one by one 
--  read the tags that has text only 
+-  Scrape using Beautifull soup read the tags that has text only 
 -  use google translator library and then convert the text and update the file
 -  create a json dictonary that store the translated text so next time if the same text apprears there is no need to translate it .
 - save the file after convertion.
